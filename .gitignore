@@ -1,0 +1,27 @@
+# Build output directories
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# Project specific files
+*.spec
+
+# Environment files
+venv/
+env/
+.env/
+.venv/
+.virtualenv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Temp files
+*.log
+*.tmp
+temp/
